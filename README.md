@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/belsareaditya/belsareaditya/output/github-contribution-grid-snake.svg" />
+</p>
+
 # Hi, I'm Aditya Belsare
 
 DevOps & SRE Engineer | AWS | Kubernetes | CI/CD | Automation
