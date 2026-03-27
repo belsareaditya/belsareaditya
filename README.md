@@ -2,9 +2,13 @@
 
 DevOps & SRE Engineer | AWS | Kubernetes | CI/CD | Automation
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer;SRE+Engineer;Kubernetes+Enthusiast;CI/CD+Automation+Expert)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Engineer;SRE+Engineer;Kubernetes+Enthusiast;CI/CD+Automation+Expert;Cloud+Native+Builder&center=true&width=500&height=50">
+</p>
 
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=belsareaditya&label=Profile+Views&color=blue&style=flat" />
+</p>
 
 ---
 
@@ -19,16 +23,9 @@ DevOps & SRE Engineer | AWS | Kubernetes | CI/CD | Automation
 
 ## Tech Stack
 
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-black)
-![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red)
-![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange)
-![Grafana](https://img.shields.io/badge/Grafana-Visualization-yellow)
-![Python](https://img.shields.io/badge/Python-Scripting-blue)
-![Linux](https://img.shields.io/badge/Linux-OS-black)
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,prometheus,grafana,python,linux" />
+</p>
 
 ---
 
@@ -89,16 +86,33 @@ DevOps & SRE Engineer | AWS | Kubernetes | CI/CD | Automation
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=belsareaditya&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=belsareaditya&theme=tokyonight" />
+</p>
 
 ---
 
 ## Activity Graph
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=belsareaditya&theme=tokyo-night" />
+</p>
+
+---
+
+## Contribution Snake (Cool Animation)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/belsareaditya/belsareaditya/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## Connect With Me
 
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+<p>
+  <a href="https://linkedin.com/in/YOUR_PROFILE">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
